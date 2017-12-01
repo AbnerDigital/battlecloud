@@ -677,7 +677,8 @@
         "name": "MYSQL_ROOT_PASSWORD",
         "label": "Database root password",
         "description": "Password used by the MySQL root user."
-      },
+       }
+     },
         {
     "type": "stack",
     "title": "Wordpress2",
@@ -695,7 +696,7 @@
         "name": "MYSQL_ROOT_PASSWORD",
         "label": "Database root password",
         "description": "Password used by the MySQL root user."
-}
+      }
     ]
   }
 ]
