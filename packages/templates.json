@@ -677,20 +677,7 @@
         "name": "MYSQL_ROOT_PASSWORD",
         "label": "Database root password",
         "description": "Password used by the MySQL root user."
-      },
-      {
-        "type": "stack",
-        "title": "PhpMyAdmin",
-        "image": "phpmyadmin/phpmyadmin:latest",
-        "description": "Setup PhpMyAdmin",
-        "note": "Deploy PhpMyAdmin instance.",
-        "categories": ["App"],
-        "platform": "linux",
-        "logo": "https://cloudinovasi.id/assets/img/logos/wordpress.png",
-        "repository": {
-          "url": "https://github.com/mario0582/battlecloud",
-          "stackfile": "packages/stacks/phpmyadmin/docker-stack.yml"
-      },
+      }
     ]
   }
 ]
