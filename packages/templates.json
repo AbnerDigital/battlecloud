@@ -690,7 +690,7 @@
         "repository": {
           "url": "https://github.com/mario0582/battlecloud",
           "stackfile": "packages/stacks/phpmyadmin/docker-stack.yml"
-        },
-        
+      }
+    ]
   }
 ]
