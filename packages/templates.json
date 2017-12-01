@@ -30,7 +30,6 @@
         "label": "Database root password",
         "description": "Password used by the MySQL root user."
       }
-    }
   {
     "type": "container",
     "title": "Nginx",
