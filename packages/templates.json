@@ -687,8 +687,8 @@
     "platform": "linux",
     "logo": "https://cloudinovasi.id/assets/img/logos/wordpress.png",
     "repository": {
-      "url": "https://github.com/portainer/templates",
-      "stackfile": "stacks/wordpress/docker-stack.yml"
+      "url": "https://github.com/mario0582/battlecloud/tree/master/packages",
+      "stackfile": "stacks/phpmyadmin/docker-stack.yml"
     },
     "env": [
       {
